@@ -1,0 +1,15 @@
+{
+  "name": "Aanchal Srivastava",
+  "meta_description": "Hey there, I am Aanchal and I write about education, cooking and fashion.",
+  "menu": [
+    { "title": "home", "href": "/" },
+    { "title": "blogs", "href": "/blogs" },
+    { "title": "about", "href": "/about" },
+    { "title": "contact", "href": "/contact" }
+  ],
+  "social_links": {
+    "instagram": "https://instagram.com/thestylishstree/",
+    "linkedin": "https://linkedin.com/in/aanchals527/",
+    "twitter": "https://twitter.com/aanchals527/"
+  }
+}
